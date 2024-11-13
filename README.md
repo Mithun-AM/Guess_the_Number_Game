@@ -1,1 +1,1 @@
-This is a basic Guess the number in least amount of chance game.
+This is a basic game where we guess the number in least amount of chances.
